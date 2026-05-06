@@ -104,11 +104,8 @@ python main.py --mode train \
 
 训练好的最优模型权重下载地址：
 
-> [Google Drive 下载链接]（待填写）
-
-下载后放置到对应目录：
-- v1 权重 → `checkpoints/best_model.npz`
-- v2 权重 → `checkpoints_v2/best_model.npz`
+- v1 权重：[best_model_v1.npz](https://drive.google.com/file/d/13PD1Zi1ixc5-eJC1sUgi121pmZozREDQ/view?usp=drive_link) → 下载后放置到 `checkpoints/best_model.npz`
+- v2 权重：[best_model_v2.npz](https://drive.google.com/file/d/1J3HsDvH2eUPhK67lY_5sj6lJLToq22FK/view?usp=drive_link) → 下载后放置到 `checkpoints_v2/best_model.npz`
 
 ## 实验结果
 
