@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+checkpoints/
+checkpoints_v2/
+*.log
+train_log.txt
+train_v2_log.txt
+.DS_Store
